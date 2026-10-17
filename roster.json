@@ -6,11 +6,11 @@
     "Raiп"
   ],
   "supporters": [
-    { "name": "foxi", "tier": "poster" },
-    { "name": "eat da buh", "tier": "poster" },
-    { "name": "amanda", "tier": "poster" },
+    { "name": "foxi", "tier": "groupposter" },
+    { "name": "eat da buh", "tier": "groupposter" },
+    { "name": "amanda", "tier": "groupposter" },
     { "name": "Rain", "tier": "poster" },
-    { "name": "jessicat", "tier": "dj" }
+    { "name": "jessicat", "tier": "poster" }
   ],
   "staff": []
 }

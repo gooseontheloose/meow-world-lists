@@ -21,4 +21,4 @@ commit. GitHub can take up to ~5 minutes to serve the new file; people already i
 they rejoin.
 
 ## Supporter board
-"supporters": the names on the board in the Den, by tier: "poster" (Poster VIP), "dj" (DJ VIP), "vip" (Cozy Cat VIP), "kitten". The "name" is just the label shown on the board (any text); perks still come from "vips".
+"supporters": the names on the board in the Den, by tier: "groupposter" (Group + Poster VIP, top), "poster" (Poster VIP), "group" (Group VIP), "vip" (VIP), "kitten". The "name" is just the label shown on the board (any text); perks still come from "vips".
