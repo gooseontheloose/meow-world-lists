@@ -1,42 +1,41 @@
-# Group VIP - plan (waiting for approval, not built)
+# Group VIP - plan v2 (decisions from foxi 2026-10-17; ready to build after approval)
 
-Goal (like a club website group system, but driven by this repo): a paying group lists its staff once; any instance
-started by one of its senior staff loads that team, so the group runs its own events here.
+## Ranks inside a group (all saved per group in roster.json)
+| Group rank | Can open a group instance | Auto role on join (in THEIR group's instance) |
+|---|---|---|
+| owners | yes | Host (+ Security, DJ, video) |
+| seniorHosts | yes | Host (+ Security, DJ, video) |
+| hosts | no | Host |
+| security | no | Security |
+| djs | no | DJ |
+| video | no | Video control |
+| access | no | Gate access |
 
-## Data (roster.json, refreshed by the world every hour)
 ```json
 "groups": [
-  {
-    "id": "pawpatrol",
-    "name": "Paw Patrol",
-    "tier": "group",                 // group | groupposter
-    "logo": "groups/pawpatrol.png",   // shown on the VIP Groups wall + in their instances
-    "owners":   ["Display Name"],     // can START a group instance (their list loads)
-    "hosts":    ["Name", "Name"],     // auto Host when they join that instance
-    "security": ["Name"],             // auto Security
-    "djs":      ["Name"],             // auto DJ
-    "colors": { "accent": "#C7B3FF", "floor": "walnut" }   // later: instance look
-  }
+  { "id": "pawpatrol", "name": "Paw Patrol", "tier": "group", "logo": "groups/pawpatrol.png",
+    "owners": ["A"], "seniorHosts": ["B"], "hosts": ["C"], "security": ["D"], "djs": ["E"], "video": [], "access": [] }
 ]
 ```
 
-## How an instance becomes a group instance
-1. The instance starter (or, in a Group instance, the first player) is in some group's `owners`.
-2. The world marks the instance as that group's (synced once by the owner, like the founder today).
-3. Everyone who joins is checked against that group's `hosts` / `security` / `djs` -> roles given automatically.
-4. The list is re-downloaded every hour (VRChat string loading); changes apply without anyone rejoining.
+## Which group an instance belongs to (never wrong perms)
+1. The **instance group is decided first**, once, from the person who opened it (the instance starter, or the first
+   player of a Group / Public instance = the founder the world already tracks).
+2. Instance group = the group where that person is an **owner or seniorHost**. Synced and frozen for the instance.
+3. Only then are joiners checked - and **only against that one group's lists**. Being staff in another group gives
+   nothing here. So someone in two groups can never get the wrong group's perms.
+4. If the opener is owner/seniorHost in two paying groups: the world asks them once ("Run this instance as: A / B")
+   via a menu popup; until they pick, no group roles load.
+   (VRChat does not tell worlds which VRChat Group an instance was made under, so the opener is the key.)
+5. Lists re-download every hour; roles update live.
 
-## VIP-host powers (the paid part)
-- Lock / unlock the front gate, timeout (Cage), jail: only in a **VIP instance** = a group instance of a paying group,
-  or an instance with the world owner / roster staff in it. Elsewhere Hosts keep go-to / bring / roles, not moderation.
-  (Changes current behaviour - switch on only after testing; NOT before an event.)
+## Moderation powers (paid)
+- **Timeout (Cage):** Group VIP hosts in their own group instance (+ foxi, roster staff).
+- **Jail:** only foxi for now (jail is not finished).
+- **Gate lock:** VIP hosts in VIP instances (+ foxi, roster staff).
+- Non-VIP instances: Hosts keep go-to / bring / giving DJ, video, access - no timeout / jail / gate lock.
+- Rollout: build with a world switch, test, then turn on - **never before an event**.
 
-## In-world
-- **VIP Groups wall** (new room or the gallery): one card per paying group - logo, name, "hosting now" badge when a
-  group instance is live... (badge only for the current instance).
-- Group instance touches (later): logo on the Den screen / neon slot, accent colour for coves + neon, floor finish pick.
-
-## Open questions for foxi
-- Who counts as "senior staff" that can start a group instance: owners only, or owners + hosts?
-- Should Group VIP hosts get timeout / jail, or only the gate lock?
-- One group per instance, or can a VIP host pick between groups they belong to?
+## Still planned
+- VIP Groups wall (a card per paying group, logo + name, "live here now" in a group instance).
+- Group instance looks: logo on the Den screen / a neon slot, accent colour (coves, neon), floor finish.
