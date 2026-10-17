@@ -7,17 +7,18 @@ A missing file = that slot shows the "YOUR POSTER HERE" placeholder.
 - Keep text away from the outer 5 % (the frame covers a little).
 - Upload the file here with the exact name (Add file > Upload files), commit. Live for anyone who joins after ~5 min.
 
-## Slot map (looking from the courtyard lawn; front = the Den side, back = the far end)
+## Slot map
+West = the Nap Hall / Kitten Nook side, east = the Play Barn / Tea Room side, front = the Den side, back = the far end.
 
 | Slot | Floor | Wall |
 |---|---|---|
-| 01-04 | ground veranda | west wall (front to back) |
-| 05-07 | upstairs gallery | west wall (front to back) |
-| 08-11 | ground veranda | east wall (front to back) |
-| 12-14 | upstairs gallery | east wall (front to back) |
-| 15-18 | ground veranda | front wall (left to right) |
-| 19-21 | ground veranda | back wall (left to right) |
-| 22-25 | upstairs gallery | front wall (left to right) |
-| 26 | upstairs gallery | back wall, left |
+| 01-04 | ground veranda | west wall (front end first) |
+| 05-07 | upstairs gallery | west wall (front end first) |
+| 08-11 | ground veranda | east wall (front end first) |
+| 12-14 | upstairs gallery | east wall (front end first) |
+| 15-18 | ground veranda | front wall (west end first) |
+| 19-21 | ground veranda | back wall (west end first) |
+| 22-25 | upstairs gallery | front wall (west end first) |
+| 26 | upstairs gallery | back wall, west end |
 
 Best spots (most seen): 15-18 (facing you when you walk out of the Den), 02/03 and 09/10 (either side of the neon signs).
