@@ -24,10 +24,15 @@
 2. Instance group = the group where that person is an **owner or seniorHost**. Synced and frozen for the instance.
 3. Only then are joiners checked - and **only against that one group's lists**. Being staff in another group gives
    nothing here. So someone in two groups can never get the wrong group's perms.
-4. If the opener is owner/seniorHost in two paying groups: the world asks them once ("Run this instance as: A / B")
-   via a menu popup; until they pick, no group roles load.
-   (VRChat does not tell worlds which VRChat Group an instance was made under, so the opener is the key.)
-5. Lists re-download every hour; roles update live.
+4. **Instance Setup panel** (opener only): opens by itself when the instance creator first loads in (and from the
+   menu any time after). Only the instance creator sees it.
+   - **Group dropdown**: `Default (no group)`, then every paying group where the creator is owner / seniorHost.
+     - in no group -> only `Default`.
+     - in exactly one group -> that group is **pre-selected**, `Default` still there to switch it off.
+     - in two or more -> starts on `Default` until they pick one.
+   - Changing the pick re-applies the group roles for everyone in the instance (old group's auto roles removed).
+   - Same panel: lock / unlock the gate, and later the instance looks (group logo, accent colour, floor).
+   - VRChat does not tell worlds which VRChat Group an instance was made under, so the creator's pick is the source of truth.5. Lists re-download every hour; roles update live.
 
 ## Moderation powers (paid)
 - **Timeout (Cage):** Group VIP hosts in their own group instance (+ foxi, roster staff).
