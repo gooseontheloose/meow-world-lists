@@ -32,5 +32,24 @@
       "tier": "group"
     }
   ],
-  "staff": []
+  "staff": [],
+  "groups": [
+    {
+      "id": "grp_9a9863c1-464f-450a-a3dd-65af606b11eb",
+      "vrcId": "grp_9a9863c1-464f-450a-a3dd-65af606b11eb",
+      "name": "MEOW",
+      "code": "MEOW.0061",
+      "tagline": "foxi's own group: the Kitty Lounge family, events and cozy nights",
+      "tier": "group",
+      "owners": [
+        "foxi"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
+    }
+  ]
 }
