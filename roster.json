@@ -3,14 +3,34 @@
     "jessicat_vr",
     "amandahugnkisss",
     "eatdabuh",
-    "Raiп"
+    "Raiп",
+    "QuietNebula"
   ],
   "supporters": [
-    { "name": "foxi", "tier": "groupposter" },
-    { "name": "Rain", "tier": "groupposter" },
-    { "name": "eatdabuh", "tier": "groupposter" },
-    { "name": "amandahugnkisss", "tier": "groupposter" },
-    { "name": "jessicat_vr", "tier": "poster" }
+    {
+      "name": "foxi",
+      "tier": "groupposter"
+    },
+    {
+      "name": "Rain",
+      "tier": "groupposter"
+    },
+    {
+      "name": "eatdabuh",
+      "tier": "groupposter"
+    },
+    {
+      "name": "amandahugnkisss",
+      "tier": "groupposter"
+    },
+    {
+      "name": "jessicat_vr",
+      "tier": "poster"
+    },
+    {
+      "name": "QuietNebula",
+      "tier": "group"
+    }
   ],
   "staff": []
 }
