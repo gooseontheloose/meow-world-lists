@@ -5,7 +5,8 @@
     "eatdabuh",
     "Raiп",
     "QuietNebula",
-    "Iz_Loko"
+    "Iz_Loko",
+    "Wild_Nightshade"
   ],
   "supporters": [
     {
@@ -35,6 +36,10 @@
     {
       "name": "Iz_Loko",
       "tier": "poster"
+    },
+    {
+      "name": "Wild_Nightshade",
+      "tier": "vip"
     }
   ],
   "staff": [],
