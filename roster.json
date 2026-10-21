@@ -6,7 +6,8 @@
     "Raiп",
     "QuietNebula",
     "Iz_Loko",
-    "Wild_Nightshade"
+    "Wild_Nightshade",
+    "JantsoP"
   ],
   "supporters": [
     {
@@ -40,6 +41,10 @@
     {
       "name": "Wild_Nightshade",
       "tier": "vip"
+    },
+    {
+      "name": "JantsoP",
+      "tier": "group"
     }
   ],
   "staff": [],
