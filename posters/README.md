@@ -7,7 +7,12 @@ A missing file = that slot shows the "YOUR POSTER HERE" placeholder.
 - Keep text away from the outer 5 % (the frame covers a little).
 - Upload the file here with the exact name (Add file > Upload files), commit. Live for anyone who joins after ~5 min.
 
-## Slot map
+## LIVE slots (the world only loads these - updated 2026-10-21)
+**02, 03, 06, 07, 09, 10, 13, 14, 16, 17, 23, 24.** The other numbers are parked in the world (walls changed for stairs /
+windows): a file named for a parked slot is never shown. Best spots: **16 / 17** (facing you as you walk out of the Den),
+then 02 / 03 and 09 / 10 (either side of the neon signs).
+
+## Slot map (all 26 positions; only the live ones above are in the world)
 West = the Nap Hall / Kitten Nook side, east = the Play Barn / Tea Room side, front = the Den side, back = the far end.
 
 | Slot | Floor | Wall |
@@ -21,4 +26,3 @@ West = the Nap Hall / Kitten Nook side, east = the Play Barn / Tea Room side, fr
 | 22-25 | upstairs gallery | front wall (west end first) |
 | 26 | upstairs gallery | back wall, west end |
 
-Best spots (most seen): 15-18 (facing you when you walk out of the Den), 02/03 and 09/10 (either side of the neon signs).
