@@ -65,6 +65,23 @@
       "djs": [],
       "video": [],
       "access": []
+    },
+    {
+      "id": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "vrcId": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "name": "Noodle Nights 18",
+      "code": "NN18.3803",
+      "tagline": "JantsoP's group",
+      "tier": "group",
+      "owners": [
+        "JantsoP"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
     }
   ]
 }
