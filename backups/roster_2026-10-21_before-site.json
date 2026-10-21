@@ -1,0 +1,97 @@
+{
+  "vips": [
+    "jessicat_vr",
+    "amandahugnkisss",
+    "eatdabuh",
+    "Raiп",
+    "QuietNebula",
+    "Iz_Loko",
+    "Wild_Nightshade",
+    "JantsoP",
+    "DumbSubbyCatboy",
+    "NicolasCassie"
+  ],
+  "supporters": [
+    {
+      "name": "foxi",
+      "tier": "groupposter"
+    },
+    {
+      "name": "Raiп",
+      "tier": "groupposter"
+    },
+    {
+      "name": "eatdabuh",
+      "tier": "groupposter"
+    },
+    {
+      "name": "amandahugnkisss",
+      "tier": "groupposter"
+    },
+    {
+      "name": "jessicat_vr",
+      "tier": "groupposter"
+    },
+    {
+      "name": "QuietNebula",
+      "tier": "group"
+    },
+    {
+      "name": "Iz_Loko",
+      "tier": "poster"
+    },
+    {
+      "name": "Wild_Nightshade",
+      "tier": "vip"
+    },
+    {
+      "name": "JantsoP",
+      "tier": "group"
+    },
+    {
+      "name": "DumbSubbyCatboy",
+      "tier": "group"
+    },
+    {
+      "name": "NicolasCassie",
+      "tier": "vip"
+    }
+  ],
+  "staff": [],
+  "groups": [
+    {
+      "id": "grp_9a9863c1-464f-450a-a3dd-65af606b11eb",
+      "vrcId": "grp_9a9863c1-464f-450a-a3dd-65af606b11eb",
+      "name": "MEOW",
+      "code": "MEOW.0061",
+      "tagline": "foxi's own group: the Kitty Lounge family, events and cozy nights",
+      "tier": "group",
+      "owners": [
+        "fохi"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
+    },
+    {
+      "id": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "vrcId": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "name": "Noodle Nights 18",
+      "code": "NN18.3803",
+      "tagline": "JantsoP's group",
+      "tier": "group",
+      "owners": [
+        "JantsoP"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
+    }
+  ]
+}
