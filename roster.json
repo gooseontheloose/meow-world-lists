@@ -1,0 +1,269 @@
+{
+  "vips": [
+    "amandahugnkisss",
+    "eatdabuh",
+    "Raiп",
+    "QuietNebula",
+    "Wild_Nightshade",
+    "DumbSubbyCatboy",
+    "NicolasCassie",
+    "Iz_Loko",
+    "jessicat_vr",
+    "fохi",
+    "Rayshen",
+    "GirthyGramps",
+    "Shayday21232",
+    "JantsoP",
+    "Kaiyō Kitsuni",
+    "Saphira.",
+    "ღMønkeyღ"
+  ],
+  "supporters": [
+    {
+      "name": "foxi",
+      "tier": "groupposter"
+    },
+    {
+      "name": "Raiп",
+      "tier": "groupposter"
+    },
+    {
+      "name": "eatdabuh",
+      "tier": "groupposter"
+    },
+    {
+      "name": "amandahugnkisss",
+      "tier": "groupposter"
+    },
+    {
+      "name": "QuietNebula",
+      "tier": "group"
+    },
+    {
+      "name": "Wild_Nightshade",
+      "tier": "vip"
+    },
+    {
+      "name": "DumbSubbyCatboy",
+      "tier": "group"
+    },
+    {
+      "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "Iz_Loko",
+      "tier": "poster"
+    },
+    {
+      "name": "jessicat_vr",
+      "tier": "group"
+    },
+    {
+      "name": "fохi",
+      "tier": "apex"
+    },
+    {
+      "name": "Rayshen",
+      "tier": "vip"
+    },
+    {
+      "name": "GirthyGramps",
+      "tier": "apex"
+    },
+    {
+      "name": "Shayday21232",
+      "tier": "apex"
+    },
+    {
+      "name": "JantsoP",
+      "tier": "group"
+    },
+    {
+      "name": "Kaiyō Kitsuni",
+      "tier": "apex"
+    },
+    {
+      "name": "Saphira.",
+      "tier": "vip"
+    },
+    {
+      "name": "ღMønkeyღ",
+      "tier": "vip"
+    }
+  ],
+  "staff": [
+    {
+      "name": "ThomasMatthew",
+      "rank": "staff"
+    },
+    {
+      "name": "ΛɌƩS",
+      "rank": "staff"
+    }
+  ],
+  "groups": [
+    {
+      "id": "grp_9a9863c1-464f-450a-a3dd-65af606b11eb",
+      "vrcId": "grp_9a9863c1-464f-450a-a3dd-65af606b11eb",
+      "name": "MEOW",
+      "code": "MEOW.0061",
+      "tagline": "foxi's own group: the Kitty Lounge family, events and cozy nights",
+      "tier": "group",
+      "owners": [
+        "fохi"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
+    },
+    {
+      "site": true,
+      "id": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "vrcId": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "name": "Noodle Nights 18",
+      "code": "NN18.3803",
+      "tagline": "After-hours hangout for adults who enjoy playful banter, cozy vibes, and good company.",
+      "tier": "group",
+      "owners": [
+        "nicklameallday",
+        "Kaiyō Kitsuni",
+        "JantsoP"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
+    },
+    {
+      "site": true,
+      "id": "grp_75603e28-fbc7-4e3b-b38b-7b2e4222cae4",
+      "vrcId": "grp_75603e28-fbc7-4e3b-b38b-7b2e4222cae4",
+      "name": "Verified 18 Plus",
+      "code": "VRFID.0738",
+      "tagline": "An Inclusive 18+ Adult Oriented Nightclub Community Featuring Live DJs And Cat Girls",
+      "tier": "group",
+      "owners": [
+        "jessicat_vr",
+        "˗ˏˋLexiˊˎ-",
+        "amandahugnkisss"
+      ],
+      "seniorHosts": [
+        "jessicat_vr",
+        "˗ˏˋLexiˊˎ-",
+        "amandahugnkisss"
+      ],
+      "hosts": [
+        "jessicat_vr",
+        "˗ˏˋLexiˊˎ-",
+        "amandahugnkisss",
+        "Izükï Tånükï"
+      ],
+      "security": [
+        "jessicat_vr",
+        "˗ˏˋLexiˊˎ-",
+        "amandahugnkisss",
+        "LoEloHighStress",
+        "Izükï Tånükï"
+      ],
+      "djs": [
+        "jessicat_vr",
+        "˗ˏˋLexiˊˎ-",
+        "amandahugnkisss",
+        "LoEloHighStress",
+        "Izükï Tånükï"
+      ],
+      "video": [
+        "jessicat_vr",
+        "˗ˏˋLexiˊˎ-",
+        "amandahugnkisss",
+        "LoEloHighStress",
+        "Izükï Tånükï"
+      ],
+      "access": []
+    },
+    {
+      "site": true,
+      "id": "grp_d49c108b-dcf4-49b5-8efa-5cfce12f6c9c",
+      "vrcId": "grp_d49c108b-dcf4-49b5-8efa-5cfce12f6c9c",
+      "name": "RBN",
+      "code": "RBN.8799",
+      "tagline": "Submissive Puppies",
+      "tier": "group",
+      "owners": [],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": []
+    }
+  ],
+  "manualFloor": {
+    "JantsoP": "group",
+    "ღMønkeyღ": "vip",
+    "Rayshen": "vip",
+    "jessicat_vr": "groupposter",
+    "Iz_Loko": "poster"
+  },
+  "files": {
+    "posters": [
+      2,
+      3,
+      9,
+      10,
+      16,
+      17
+    ],
+    "big": [
+      1,
+      2,
+      3
+    ],
+    "logos": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "plaques": {
+    "2": {
+      "name": "Iz_Loko",
+      "rank": "POSTER VIP"
+    },
+    "3": {
+      "name": "Kaiyō Kitsuni",
+      "rank": "APEX VIP"
+    },
+    "9": {
+      "name": "GirthyGramps",
+      "rank": "APEX VIP"
+    },
+    "10": {
+      "name": "Shayday21232",
+      "rank": "APEX VIP"
+    },
+    "16": {
+      "name": "jessicat_vr",
+      "rank": "GROUP VIP"
+    },
+    "big1": {
+      "name": "GirthyGramps",
+      "rank": "APEX VIP"
+    },
+    "big2": {
+      "name": "Shayday21232",
+      "rank": "APEX VIP"
+    },
+    "big3": {
+      "name": "Kaiyō Kitsuni",
+      "rank": "APEX VIP"
+    }
+  }
+}
