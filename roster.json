@@ -3,10 +3,10 @@
     "amandahugnkisss",
     "eatdabuh",
     "Raiп",
-    "QuietNebula",
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "QuietNebula",
     "Horus Babassa",
     "8Bitocarina",
     "YandereKat714",
@@ -39,10 +39,6 @@
       "tier": "groupposter"
     },
     {
-      "name": "QuietNebula",
-      "tier": "group"
-    },
-    {
       "name": "Wild_Nightshade",
       "tier": "vip"
     },
@@ -53,6 +49,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "QuietNebula",
+      "tier": "group"
     },
     {
       "name": "Horus Babassa",
@@ -227,7 +227,8 @@
     "ღMønkeyღ": "vip",
     "Rayshen": "vip",
     "jessicat_vr": "groupposter",
-    "Iz_Loko": "poster"
+    "Iz_Loko": "poster",
+    "QuietNebula": "group"
   },
   "files": {
     "posters": [
