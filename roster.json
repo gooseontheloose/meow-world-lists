@@ -239,6 +239,7 @@
     "posters": [
       2,
       3,
+      6,
       9,
       10,
       16,
@@ -265,6 +266,10 @@
     "3": {
       "name": "Kaiyō Kitsuni",
       "rank": "APEX VIP"
+    },
+    "6": {
+      "name": "Kaosu Kitty",
+      "rank": "POSTER VIP"
     },
     "9": {
       "name": "GirthyGramps",
