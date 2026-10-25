@@ -341,6 +341,7 @@
   },
   "files": {
     "posters": [
+      1,
       2,
       3,
       6,
@@ -369,6 +370,10 @@
     ]
   },
   "plaques": {
+    "1": {
+      "name": "jessicat_vr",
+      "rank": "GROUP VIP"
+    },
     "2": {
       "name": "Iz_Loko",
       "rank": "POSTER VIP"
