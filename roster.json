@@ -159,6 +159,32 @@
   "groups": [
     {
       "site": true,
+      "id": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "vrcId": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
+      "name": "Noodle Nights 18",
+      "code": "NN18.3803",
+      "tagline": "After-hours hangout for adults who enjoy playful banter, cozy vibes, and good company.",
+      "tier": "group",
+      "owners": [
+        "nicklameallday",
+        "Kaiyō Kitsuni",
+        "JantsoP"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": [
+        {
+          "t": "Opening set",
+          "u": "https://www.youtube.com/watch?v=UcBAAp5e9Y0"
+        }
+      ]
+    },
+    {
+      "site": true,
       "id": "grp_75603e28-fbc7-4e3b-b38b-7b2e4222cae4",
       "vrcId": "grp_75603e28-fbc7-4e3b-b38b-7b2e4222cae4",
       "name": "Verified 18 Plus",
@@ -312,10 +338,12 @@
       1,
       2,
       3,
-      4
+      4,
+      5
     ],
     "banners": [
-      3
+      1,
+      4
     ]
   },
   "plaques": {
