@@ -6,6 +6,7 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "Kaiyō Kitsuni",
     "VisforVenus",
     "̴L̴̴i̴̴g̴̴h̴̴t̴",
     "ღExoticButtersღ",
@@ -22,9 +23,9 @@
     "GirthyGramps",
     "Shayday21232",
     "JantsoP",
-    "Kaiyō Kitsuni",
     "Saphira.",
-    "ღMønkeyღ"
+    "ღMønkeyღ",
+    "nicklameallday"
   ],
   "supporters": [
     {
@@ -54,6 +55,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "Kaiyō Kitsuni",
+      "tier": "apex"
     },
     {
       "name": "VisforVenus",
@@ -120,16 +125,17 @@
       "tier": "group"
     },
     {
-      "name": "Kaiyō Kitsuni",
-      "tier": "apex"
-    },
-    {
       "name": "Saphira.",
       "tier": "vip"
     },
     {
       "name": "ღMønkeyღ",
       "tier": "vip"
+    },
+    {
+      "name": "nicklameallday",
+      "tier": "vip",
+      "buddyOf": "Kaiyō Kitsuni"
     }
   ],
   "staff": [
@@ -151,27 +157,6 @@
     }
   ],
   "groups": [
-    {
-      "site": true,
-      "id": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
-      "vrcId": "grp_84336c42-0d0f-46f7-9d95-a98a8ac8ef8d",
-      "name": "Noodle Nights 18",
-      "code": "NN18.3803",
-      "tagline": "After-hours hangout for adults who enjoy playful banter, cozy vibes, and good company.",
-      "tier": "group",
-      "owners": [
-        "nicklameallday",
-        "Kaiyō Kitsuni",
-        "JantsoP"
-      ],
-      "seniorHosts": [],
-      "hosts": [],
-      "security": [],
-      "djs": [],
-      "video": [],
-      "access": [],
-      "playlist": []
-    },
     {
       "site": true,
       "id": "grp_75603e28-fbc7-4e3b-b38b-7b2e4222cae4",
@@ -326,11 +311,10 @@
       1,
       2,
       3,
-      4,
-      5
+      4
     ],
     "banners": [
-      4
+      3
     ]
   },
   "plaques": {
