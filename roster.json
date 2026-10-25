@@ -413,5 +413,19 @@
       "name": "Shayday21232",
       "rank": "APEX VIP"
     }
-  }
+  },
+  "banned": [
+    {
+      "name": "main banned",
+      "why": "injected money (monty)",
+      "at": "2026-10-25",
+      "by": "foxi"
+    },
+    {
+      "name": "rare name",
+      "why": "injected money (monty)",
+      "at": "2026-10-25",
+      "by": "foxi"
+    }
+  ]
 }
