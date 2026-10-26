@@ -385,6 +385,7 @@
       2,
       3,
       6,
+      8,
       9,
       10,
       13,
@@ -427,6 +428,10 @@
     "6": {
       "name": "Kaosu Kitty",
       "rank": "POSTER VIP"
+    },
+    "8": {
+      "name": "Azrya",
+      "rank": "GROUP VIP"
     },
     "9": {
       "name": "GirthyGramps",
