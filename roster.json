@@ -344,6 +344,31 @@
       "video": [],
       "access": [],
       "playlist": []
+    },
+    {
+      "site": true,
+      "id": "grp_e730fa54-60b9-4f7a-a364-0a505f4d066c",
+      "vrcId": "grp_e730fa54-60b9-4f7a-a364-0a505f4d066c",
+      "name": "Poorly Supervised",
+      "code": "POORLY.0374",
+      "tagline": "",
+      "tier": "group",
+      "owners": [
+        "Azrya"
+      ],
+      "seniorHosts": [
+        "FlexTapeMistic"
+      ],
+      "hosts": [
+        "Footy Job"
+      ],
+      "security": [
+        "Mito-kw"
+      ],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": []
     }
   ],
   "manualFloor": {
@@ -377,11 +402,13 @@
       2,
       3,
       4,
-      5
+      5,
+      6
     ],
     "banners": [
       1,
-      4
+      4,
+      6
     ]
   },
   "plaques": {
