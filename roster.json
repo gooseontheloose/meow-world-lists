@@ -6,6 +6,8 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "DeathTap",
+    "fохi",
     "AbyssalGeode",
     "Azrya",
     "0tters",
@@ -25,7 +27,6 @@
     "YandereKat714",
     "Iz_Loko",
     "jessicat_vr",
-    "fохi",
     "Rayshen",
     "GirthyGramps",
     "Shayday21232",
@@ -63,6 +64,14 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "DeathTap",
+      "tier": "vip"
+    },
+    {
+      "name": "fохi",
+      "tier": "apex"
     },
     {
       "name": "AbyssalGeode",
@@ -139,10 +148,6 @@
     {
       "name": "jessicat_vr",
       "tier": "group"
-    },
-    {
-      "name": "fохi",
-      "tier": "apex"
     },
     {
       "name": "Rayshen",
