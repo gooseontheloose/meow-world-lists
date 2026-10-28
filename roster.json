@@ -1,11 +1,11 @@
 {
   "vips": [
-    "amandahugnkisss",
     "eatdabuh",
     "Raiп",
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "amandahugnkisss",
     "DeathTap",
     "fохi",
     "AbyssalGeode",
@@ -50,10 +50,6 @@
       "tier": "groupposter"
     },
     {
-      "name": "amandahugnkisss",
-      "tier": "groupposter"
-    },
-    {
       "name": "Wild_Nightshade",
       "tier": "vip"
     },
@@ -64,6 +60,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "amandahugnkisss",
+      "tier": "groupposter"
     },
     {
       "name": "DeathTap",
@@ -395,7 +395,8 @@
     "Rayshen": "vip",
     "jessicat_vr": "groupposter",
     "Iz_Loko": "poster",
-    "QuietNebula": "group"
+    "QuietNebula": "group",
+    "amandahugnkisss": "groupposter"
   },
   "files": {
     "posters": [
