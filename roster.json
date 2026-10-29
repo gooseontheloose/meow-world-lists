@@ -407,6 +407,107 @@
       "video": [],
       "access": [],
       "playlist": []
+    },
+    {
+      "site": true,
+      "id": "grp_5cd3ec4f-6dc3-46f1-9af0-43515f7f10c0",
+      "vrcId": "grp_5cd3ec4f-6dc3-46f1-9af0-43515f7f10c0",
+      "name": "COSMIC",
+      "code": "COSMIC.0558",
+      "tagline": "COSMIC: An 18+ community for good people, great vibes, and just the right a of chaos.",
+      "tier": "group",
+      "owners": [
+        "LunaMoon",
+        "LadyAchlys"
+      ],
+      "seniorHosts": [
+        "Monkey",
+        "Sage"
+      ],
+      "hosts": [
+        "Goddesslucyfer",
+        "KeroKero",
+        "itstroubled",
+        "Invy",
+        "Dark",
+        "Hadez",
+        "Little D",
+        "Lilsnow",
+        "Mjuule",
+        "Vizias"
+      ],
+      "security": [
+        "Bmorez"
+      ],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": [
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=7CtJj8jRN1k&list=PLVkpdhsn7AiI&index=1"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=6wrGsnWewxY&list=RD6wrGsnWewxY&start_radio=1"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/nsmJ_tMcDVQ?si=jSwrlPpeFTcEueVd"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/iUwfO9ALYPM?si=aT14Vy9UXBrua3Jc"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=Joh_Hipj_Vw&list=RDJoh_Hipj_Vw&start_radio=1"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=GF0wv1PKRMQ&list=RDGF0wv1PKRMQ&start_radio=1"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/iyh6_hSxMvo?si=UkI9QuttQOk1faap"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/XKR3SfC6DdQ?si=JoO2agvfvsbE1"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/vnthp1ZgWiU?si=OYLjbTNRfgSsUxtt"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/2YlJHIbWZtA?si=xxJAxzYodzYC65Cx"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/wmisRWGEfWU?si=_-ZidXRKksid7_mX"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/eeQxSNVCuKw?si=cjn6sSP3YVKHlYpN"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/tBIpStHS3WA?si=jn58pKL38UEaMKdM"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/3sB4Iv_tM7U?si=5r1HxFs9yxizvp-t"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/GoXkVxQ80B4?si=i_OXDuYIg4kNPXM-"
+        },
+        {
+          "t": "",
+          "u": "https://youtu.be/6wrGsnWewxY?si=91U9iQEM2Oo-Tgf6"
+        }
+      ]
     }
   ],
   "manualFloor": {
@@ -446,12 +547,14 @@
       3,
       4,
       5,
-      6
+      6,
+      7
     ],
     "banners": [
       1,
       4,
-      6
+      6,
+      7
     ]
   },
   "plaques": {
@@ -684,7 +787,7 @@
     },
     "logos": {
       "w": 792,
-      "h": 1184,
+      "h": 1576,
       "cells": {
         "1": [
           8,
@@ -719,6 +822,12 @@
         "6": [
           400,
           792,
+          384,
+          384
+        ],
+        "7": [
+          8,
+          1184,
           384,
           384
         ]
