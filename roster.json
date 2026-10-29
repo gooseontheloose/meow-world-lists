@@ -499,14 +499,18 @@
       "rank": "GROUP VIP"
     },
     "big2": {
-      "name": "R̶o̶b̶i̶n̶",
-      "rank": "APEX VIP"
-    },
-    "big1": {
       "name": "GirthyGramps",
       "rank": "APEX VIP"
     },
+    "big1": {
+      "name": "Kaiyō Kitsuni",
+      "rank": "APEX VIP"
+    },
     "big3": {
+      "name": "R̶o̶b̶i̶n̶",
+      "rank": "APEX VIP"
+    },
+    "big4": {
       "name": "Shayday21232",
       "rank": "APEX VIP"
     }
@@ -537,6 +541,25 @@
       "why": "injected money",
       "at": "2026-10-25",
       "by": "Foxi"
+    }
+  ],
+  "bigOrder": [
+    {
+      "name": "Kaiyō Kitsuni",
+      "file": "posters/hand/big_kaiyo_noodle_nights.png",
+      "rank": "APEX VIP",
+      "note": "Patreon JantsoP, APEX since 2026-10-20"
+    },
+    {
+      "name": "GirthyGramps"
+    },
+    {
+      "name": "R̶o̶b̶i̶n̶"
+    },
+    {
+      "name": "Shayday21232",
+      "until": "2026-11-23T00:00:00Z",
+      "note": "downgraded to Group 10-28, APEX paid to the end of the month"
     }
   ]
 }
