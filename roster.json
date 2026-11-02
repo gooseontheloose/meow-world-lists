@@ -553,6 +553,26 @@
           "u": "https://youtu.be/EvC4d-JNplo?si=siiT0gG7_NUrNXjh"
         }
       ]
+    },
+    {
+      "site": true,
+      "id": "grp_7bae017a-cdbf-4f21-89ac-83d7409af6f8",
+      "vrcId": "grp_7bae017a-cdbf-4f21-89ac-83d7409af6f8",
+      "name": "Hidden Lotuses JCM DEN",
+      "code": "JCM69.8758",
+      "tagline": "",
+      "tier": "group",
+      "owners": [
+        "Qu€€n69Diamond",
+        "spy kide"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": []
     }
   ],
   "manualFloor": {
@@ -594,13 +614,15 @@
       4,
       5,
       6,
-      7
+      7,
+      8
     ],
     "banners": [
       1,
       4,
       6,
-      7
+      7,
+      8
     ]
   },
   "plaques": {
@@ -888,6 +910,12 @@
         ],
         "7": [
           8,
+          1184,
+          384,
+          384
+        ],
+        "8": [
+          400,
           1184,
           384,
           384
