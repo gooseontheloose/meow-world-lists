@@ -486,7 +486,24 @@
       "djs": [],
       "video": [],
       "access": [],
-      "playlist": []
+      "playlist": [
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=EsyMdxLHoaw&t=137s"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=N6RmjI234Pc"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=8CXe4AowDM4"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=fvKmKrUg1TE"
+        }
+      ]
     },
     {
       "site": true,
