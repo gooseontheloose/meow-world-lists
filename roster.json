@@ -5,10 +5,12 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "ＨＡＤＥＺ",
+    "LυɳαMσσɳ",
+    "meоw meоw",
     "Mitternachts",
     "NulProxy_",
     "HerDevilKing",
-    "ＨＡＤＥＺ",
     "࿏ HIKARU ࿏",
     "Missy ~",
     "Amandnya",
@@ -24,12 +26,10 @@
     "TheLastMonarch",
     "angryxpirate",
     "ßlððÐ¥ Äñgêl",
-    "LυɳαMσσɳ",
     "Katze_XD",
     "Haggis~",
     "Kaotic_Skeaph",
     "ღMønkeyღ",
-    "meоw meоw",
     "暗 ʟɪɢʜᴛ",
     "ArcaneVamp",
     "＊༒ღDaisyღ༒＊",
@@ -85,6 +85,18 @@
       "tier": "vip"
     },
     {
+      "name": "ＨＡＤＥＺ",
+      "tier": "group"
+    },
+    {
+      "name": "LυɳαMσσɳ",
+      "tier": "vip"
+    },
+    {
+      "name": "meоw meоw",
+      "tier": "apex"
+    },
+    {
       "name": "Mitternachts",
       "tier": "vip"
     },
@@ -95,10 +107,6 @@
     {
       "name": "HerDevilKing",
       "tier": "vip"
-    },
-    {
-      "name": "ＨＡＤＥＺ",
-      "tier": "group"
     },
     {
       "name": "࿏ HIKARU ࿏",
@@ -161,10 +169,6 @@
       "tier": "vip"
     },
     {
-      "name": "LυɳαMσσɳ",
-      "tier": "vip"
-    },
-    {
       "name": "Katze_XD",
       "tier": "poster"
     },
@@ -183,10 +187,6 @@
     {
       "name": "ღMønkeyღ",
       "tier": "group"
-    },
-    {
-      "name": "meоw meоw",
-      "tier": "apex"
     },
     {
       "name": "暗 ʟɪɢʜᴛ",
