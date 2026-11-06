@@ -5,6 +5,7 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "Iz_Loko",
     "Crazy_gamer_III",
     "ღMønkeyღ",
     "ＨＡＤＥＺ",
@@ -16,7 +17,6 @@
     "࿏ HIKARU ࿏",
     "Missy ~",
     "Amandnya",
-    "Iz_Loko",
     "ʚ ＣｏｓｍｉＫｉｔｔｙ ɞ",
     "M a Y 0",
     "~ʚ νєяσηιcα ʚ~",
@@ -86,6 +86,10 @@
       "tier": "vip"
     },
     {
+      "name": "Iz_Loko",
+      "tier": "poster"
+    },
+    {
       "name": "Crazy_gamer_III",
       "tier": "vip"
     },
@@ -127,10 +131,6 @@
     },
     {
       "name": "Amandnya",
-      "tier": "poster"
-    },
-    {
-      "name": "Iz_Loko",
       "tier": "poster"
     },
     {
