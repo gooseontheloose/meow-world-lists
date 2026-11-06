@@ -5,6 +5,8 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "Crazy_gamer_III",
+    "ღMønkeyღ",
     "ＨＡＤＥＺ",
     "LυɳαMσσɳ",
     "meоw meоw",
@@ -29,7 +31,6 @@
     "Katze_XD",
     "Haggis~",
     "Kaotic_Skeaph",
-    "ღMønkeyღ",
     "暗 ʟɪɢʜᴛ",
     "ArcaneVamp",
     "＊༒ღDaisyღ༒＊",
@@ -83,6 +84,14 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "Crazy_gamer_III",
+      "tier": "vip"
+    },
+    {
+      "name": "ღMønkeyღ",
+      "tier": "group"
     },
     {
       "name": "ＨＡＤＥＺ",
@@ -183,10 +192,6 @@
     {
       "name": "Lysbell",
       "tier": "kitten"
-    },
-    {
-      "name": "ღMønkeyღ",
-      "tier": "group"
     },
     {
       "name": "暗 ʟɪɢʜᴛ",
