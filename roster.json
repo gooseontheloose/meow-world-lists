@@ -726,6 +726,25 @@
       "video": [],
       "access": [],
       "playlist": []
+    },
+    {
+      "site": true,
+      "id": "grp_b99d6124-75d2-45dd-9a7c-902dba957e82",
+      "vrcId": "grp_b99d6124-75d2-45dd-9a7c-902dba957e82",
+      "name": "MUTINY",
+      "code": "MUTINY.2560",
+      "tagline": "MUTINY is an 18＋ no-filter VRChat community built on rebellion‚ individuality",
+      "tier": "group",
+      "owners": [
+        "ＨＡＤＥＺ , ZENI"
+      ],
+      "seniorHosts": [],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": []
     }
   ],
   "manualFloor": {
@@ -770,7 +789,8 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ],
     "banners": [
       1,
@@ -778,7 +798,8 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ]
   },
   "plaques": {
@@ -1082,7 +1103,7 @@
     },
     "logos": {
       "w": 792,
-      "h": 1576,
+      "h": 1968,
       "cells": {
         "1": [
           8,
@@ -1129,6 +1150,12 @@
         "8": [
           400,
           1184,
+          384,
+          384
+        ],
+        "9": [
+          8,
+          1576,
           384,
           384
         ]
