@@ -5,6 +5,8 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "SourDusk",
+    "Rayshen",
     "ThePhantomHyena",
     "cinnaree",
     "ᴍᴇᴅɪᴄᴀᴛᴇ",
@@ -59,7 +61,6 @@
     "8Bitocarina",
     "YandereKat714",
     "jessicat_vr",
-    "Rayshen",
     "GirthyGramps",
     "Shayday21232",
     "JantsoP",
@@ -90,6 +91,14 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "SourDusk",
+      "tier": "vip"
+    },
+    {
+      "name": "Rayshen",
       "tier": "vip"
     },
     {
@@ -323,10 +332,6 @@
     {
       "name": "jessicat_vr",
       "tier": "group"
-    },
-    {
-      "name": "Rayshen",
-      "tier": "vip"
     },
     {
       "name": "GirthyGramps",
