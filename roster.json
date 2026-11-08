@@ -5,6 +5,7 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "Katze_XD",
     "Steel Charge",
     "sandriii",
     "BishBoshJosh",
@@ -42,7 +43,6 @@
     "TheLastMonarch",
     "angryxpirate",
     "ßlððÐ¥ Äñgêl",
-    "Katze_XD",
     "Haggis~",
     "Kaotic_Skeaph",
     "暗 ʟɪɢʜᴛ",
@@ -96,6 +96,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "Katze_XD",
+      "tier": "poster"
     },
     {
       "name": "Steel Charge",
@@ -248,10 +252,6 @@
     {
       "name": "ßlððÐ¥ Äñgêl",
       "tier": "vip"
-    },
-    {
-      "name": "Katze_XD",
-      "tier": "poster"
     },
     {
       "name": "Haggis~",
