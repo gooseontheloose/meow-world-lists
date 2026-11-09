@@ -3,6 +3,7 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "gingeykat",
     "Horus Babassa",
     "_Great_Milenko_",
     "Cloudz--",
@@ -87,6 +88,10 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "gingeykat",
       "tier": "vip"
     },
     {
@@ -1110,7 +1115,7 @@
           556
         ],
         "18": [
-          1640,
+          1232,
           1136,
           400,
           556
