@@ -3,9 +3,9 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "_Great_Milenko_",
     "gingeykat",
     "Horus Babassa",
-    "_Great_Milenko_",
     "Cloudz--",
     "Katze_XD",
     "Steel Charge",
@@ -91,6 +91,10 @@
       "tier": "vip"
     },
     {
+      "name": "_Great_Milenko_",
+      "tier": "poster"
+    },
+    {
       "name": "gingeykat",
       "tier": "vip"
     },
@@ -101,10 +105,6 @@
     {
       "name": "BLOODGOD_",
       "tier": "kitten"
-    },
-    {
-      "name": "_Great_Milenko_",
-      "tier": "poster"
     },
     {
       "name": "Cloudz--",
@@ -835,6 +835,7 @@
       14,
       15,
       16,
+      17,
       18
     ],
     "big": [
@@ -917,6 +918,10 @@
     "16": {
       "name": "jessicat_vr",
       "rank": "GROUP VIP"
+    },
+    "17": {
+      "name": "_Great_Milenko_",
+      "rank": "POSTER VIP"
     },
     "18": {
       "name": "~ʚ νєяσηιcα ʚ~",
@@ -1114,8 +1119,14 @@
           400,
           556
         ],
-        "18": [
+        "17": [
           1232,
+          1136,
+          400,
+          556
+        ],
+        "18": [
+          1640,
           1136,
           400,
           556
