@@ -5,6 +5,7 @@
     "Wild_Nightshade",
     "DumbSubbyCatboy",
     "NicolasCassie",
+    "Horus Babassa",
     "_Great_Milenko_",
     "Cloudz--",
     "Katze_XD",
@@ -63,7 +64,6 @@
     "BunnyVR¥",
     "Kaosu Kitty",
     "QuietNebula",
-    "Horus Babassa",
     "8Bitocarina",
     "YandereKat714",
     "jessicat_vr",
@@ -98,6 +98,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "Horus Babassa",
+      "tier": "apex"
     },
     {
       "name": "BLOODGOD_",
@@ -350,10 +354,6 @@
     {
       "name": "QuietNebula",
       "tier": "group"
-    },
-    {
-      "name": "Horus Babassa",
-      "tier": "vip"
     },
     {
       "name": "8Bitocarina",
