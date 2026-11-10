@@ -413,6 +413,10 @@
     {
       "name": "meоw meоw",
       "rank": "admin"
+    },
+    {
+      "name": "NuclearActivity",
+      "rank": "staff"
     }
   ],
   "groups": [
