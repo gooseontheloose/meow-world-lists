@@ -3,6 +3,8 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "QuietNebula",
+    "~ʚ νєяσηιcα ʚ~",
     "_Great_Milenko_",
     "gingeykat",
     "Horus Babassa",
@@ -36,7 +38,6 @@
     "Amandnya",
     "ʚ ＣｏｓｍｉＫｉｔｔｙ ɞ",
     "M a Y 0",
-    "~ʚ νєяσηιcα ʚ~",
     "aSav",
     "Mïla",
     "~ ₱łɆ~",
@@ -62,7 +63,6 @@
     "ღExoticButtersღ",
     "BunnyVR¥",
     "Kaosu Kitty",
-    "QuietNebula",
     "8Bitocarina",
     "YandereKat714",
     "jessicat_vr",
@@ -89,6 +89,14 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "QuietNebula",
+      "tier": "group"
+    },
+    {
+      "name": "~ʚ νєяσηιcα ʚ~",
+      "tier": "poster"
     },
     {
       "name": "_Great_Milenko_",
@@ -231,10 +239,6 @@
       "tier": "vip"
     },
     {
-      "name": "~ʚ νєяσηιcα ʚ~",
-      "tier": "poster"
-    },
-    {
       "name": "aSav",
       "tier": "vip"
     },
@@ -345,10 +349,6 @@
     {
       "name": "Kaosu Kitty",
       "tier": "poster"
-    },
-    {
-      "name": "QuietNebula",
-      "tier": "group"
     },
     {
       "name": "8Bitocarina",
