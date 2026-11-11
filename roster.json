@@ -3,6 +3,8 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "_--Kami--_",
+    "Kaiyō Kitsuni",
     "Ohbutterballs",
     "QuietNebula",
     "~ʚ νєяσηιcα ʚ~",
@@ -58,7 +60,6 @@
     "Azrya",
     "0tters",
     "R̶o̶b̶i̶n̶",
-    "Kaiyō Kitsuni",
     "VisforVenus",
     "̴L̴̴i̴̴g̴̴h̴̴t̴",
     "ღExoticButtersღ",
@@ -71,8 +72,8 @@
     "Shayday21232",
     "JantsoP",
     "Saphira.",
-    "sunedai~",
-    "nicklameallday"
+    "nicklameallday",
+    "sunedai~"
   ],
   "supporters": [
     {
@@ -90,6 +91,14 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "_--Kami--_",
+      "tier": "poster"
+    },
+    {
+      "name": "Kaiyō Kitsuni",
+      "tier": "apex"
     },
     {
       "name": "Ohbutterballs",
@@ -332,10 +341,6 @@
       "tier": "apex"
     },
     {
-      "name": "Kaiyō Kitsuni",
-      "tier": "apex"
-    },
-    {
       "name": "VisforVenus",
       "tier": "vip"
     },
@@ -384,14 +389,14 @@
       "tier": "vip"
     },
     {
-      "name": "sunedai~",
-      "tier": "vip",
-      "buddyOf": "R̶o̶b̶i̶n̶"
-    },
-    {
       "name": "nicklameallday",
       "tier": "vip",
       "buddyOf": "Kaiyō Kitsuni"
+    },
+    {
+      "name": "sunedai~",
+      "tier": "vip",
+      "buddyOf": "R̶o̶b̶i̶n̶"
     }
   ],
   "staff": [
