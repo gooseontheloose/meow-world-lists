@@ -3,6 +3,9 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "Sellestria",
+    "meоw meоw",
+    "HerDevilKing",
     "࿏ HIKARU ࿏",
     "୧ σƈƚαʋια_ʚღɞ",
     "NuclearActivity",
@@ -35,10 +38,8 @@
     "ღMønkeyღ",
     "ＨＡＤＥＺ",
     "LυɳαMσσɳ",
-    "meоw meоw",
     "Mitternachts",
     "NulProxy_",
-    "HerDevilKing",
     "Missy ~",
     "Amandnya",
     "ʚ ＣｏｓｍｉＫｉｔｔｙ ɞ",
@@ -88,6 +89,18 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "Sellestria",
+      "tier": "poster"
+    },
+    {
+      "name": "meоw meоw",
+      "tier": "apex"
+    },
+    {
+      "name": "HerDevilKing",
       "tier": "vip"
     },
     {
@@ -227,19 +240,11 @@
       "tier": "vip"
     },
     {
-      "name": "meоw meоw",
-      "tier": "apex"
-    },
-    {
       "name": "Mitternachts",
       "tier": "vip"
     },
     {
       "name": "NulProxy_",
-      "tier": "vip"
-    },
-    {
-      "name": "HerDevilKing",
       "tier": "vip"
     },
     {
