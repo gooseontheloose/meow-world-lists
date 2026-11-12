@@ -3,6 +3,7 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "࿏ HIKARU ࿏",
     "୧ σƈƚαʋια_ʚღɞ",
     "NuclearActivity",
     "_--Kami--_",
@@ -38,7 +39,6 @@
     "Mitternachts",
     "NulProxy_",
     "HerDevilKing",
-    "࿏ HIKARU ࿏",
     "Missy ~",
     "Amandnya",
     "ʚ ＣｏｓｍｉＫｉｔｔｙ ɞ",
@@ -92,6 +92,10 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "࿏ HIKARU ࿏",
       "tier": "vip"
     },
     {
@@ -240,10 +244,6 @@
     },
     {
       "name": "HerDevilKing",
-      "tier": "vip"
-    },
-    {
-      "name": "࿏ HIKARU ࿏",
       "tier": "vip"
     },
     {
@@ -649,10 +649,6 @@
         {
           "t": "",
           "u": "https://youtu.be/GCMACEeD9DQ?si=rG1GxTEt5gCxA5Jl"
-        },
-        {
-          "t": "",
-          "u": "https://youtu.be/jHydXSRGhGc?si=sQPaXdJ9kb7f6sFk"
         }
       ]
     },
