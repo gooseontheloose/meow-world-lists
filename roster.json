@@ -78,6 +78,7 @@
     "Shayday21232",
     "JantsoP",
     "Saphira.",
+    "Rat-pudding",
     "nicklameallday",
     "sunedai~"
   ],
@@ -413,6 +414,11 @@
     {
       "name": "Saphira.",
       "tier": "vip"
+    },
+    {
+      "name": "Rat-pudding",
+      "tier": "vip",
+      "buddyOf": "StraightUpDeath"
     },
     {
       "name": "nicklameallday",
