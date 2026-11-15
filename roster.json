@@ -3,6 +3,7 @@
     "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "Coolguy3289",
     "StraightUpDeath",
     "Aria-F",
     "BigZ_2800",
@@ -78,6 +79,7 @@
     "Shayday21232",
     "JantsoP",
     "Saphira.",
+    "ShallowGrave",
     "Rat-pudding",
     "nicklameallday",
     "sunedai~"
@@ -94,6 +96,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "Coolguy3289",
+      "tier": "apex"
     },
     {
       "name": "StraightUpDeath",
@@ -414,6 +420,11 @@
     {
       "name": "Saphira.",
       "tier": "vip"
+    },
+    {
+      "name": "ShallowGrave",
+      "tier": "vip",
+      "buddyOf": "Coolguy3289"
     },
     {
       "name": "Rat-pudding",
