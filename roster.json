@@ -1,8 +1,8 @@
 {
   "vips": [
-    "eatdabuh",
     "Wild_Nightshade",
     "NicolasCassie",
+    "eatdabuh",
     "QuietNebula",
     "ColdSobaSimp",
     "Coolguy3289",
@@ -88,16 +88,16 @@
   ],
   "supporters": [
     {
-      "name": "eatdabuh",
-      "tier": "groupposter"
-    },
-    {
       "name": "Wild_Nightshade",
       "tier": "vip"
     },
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "eatdabuh",
+      "tier": "apex"
     },
     {
       "name": "QuietNebula",
