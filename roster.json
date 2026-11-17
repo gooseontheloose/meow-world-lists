@@ -2,6 +2,8 @@
   "vips": [
     "Wild_Nightshade",
     "NicolasCassie",
+    "CosmicHorror",
+    "angryxpirate",
     "σxყɠҽɳ",
     "ʚ S y l v i e ɞ",
     "Rayshen",
@@ -57,7 +59,6 @@
     "lunar_m1st",
     "loganox168",
     "TheLastMonarch",
-    "angryxpirate",
     "ßlððÐ¥ Äñgêl",
     "Haggis~",
     "Kaotic_Skeaph",
@@ -94,6 +95,14 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "CosmicHorror",
+      "tier": "vip"
+    },
+    {
+      "name": "angryxpirate",
       "tier": "vip"
     },
     {
@@ -322,10 +331,6 @@
     },
     {
       "name": "TheLastMonarch",
-      "tier": "vip"
-    },
-    {
-      "name": "angryxpirate",
       "tier": "vip"
     },
     {
@@ -1344,6 +1349,54 @@
           1576,
           384,
           384
+        ]
+      }
+    },
+    "banners": {
+      "w": 2048,
+      "h": 1556,
+      "cells": {
+        "1": [
+          8,
+          8,
+          1012,
+          379
+        ],
+        "4": [
+          1028,
+          8,
+          1012,
+          379
+        ],
+        "5": [
+          8,
+          395,
+          1012,
+          379
+        ],
+        "6": [
+          1028,
+          395,
+          1012,
+          379
+        ],
+        "7": [
+          8,
+          782,
+          1012,
+          379
+        ],
+        "8": [
+          1028,
+          782,
+          1012,
+          379
+        ],
+        "9": [
+          8,
+          1169,
+          1012,
+          379
         ]
       }
     }
