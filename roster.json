@@ -2,6 +2,7 @@
   "vips": [
     "Wild_Nightshade",
     "NicolasCassie",
+    "GothicKittyX3",
     "Maple_xoxo",
     "CosmicHorror",
     "angryxpirate",
@@ -9,7 +10,6 @@
     "ʚ S y l v i e ɞ",
     "Rayshen",
     "eatdabuh",
-    "QuietNebula",
     "ColdSobaSimp",
     "Coolguy3289",
     "StraightUpDeath",
@@ -99,6 +99,10 @@
       "tier": "vip"
     },
     {
+      "name": "GothicKittyX3",
+      "tier": "group"
+    },
+    {
       "name": "Maple_xoxo",
       "tier": "vip"
     },
@@ -125,10 +129,6 @@
     {
       "name": "eatdabuh",
       "tier": "apex"
-    },
-    {
-      "name": "QuietNebula",
-      "tier": "group"
     },
     {
       "name": "ColdSobaSimp",
