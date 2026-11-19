@@ -2,6 +2,7 @@
   "vips": [
     "Wild_Nightshade",
     "NicolasCassie",
+    "Melatonin4120",
     "GothicKittyX3",
     "Maple_xoxo",
     "CosmicHorror",
@@ -96,6 +97,10 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "Melatonin4120",
       "tier": "vip"
     },
     {
