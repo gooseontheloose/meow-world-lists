@@ -915,7 +915,8 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ],
     "logos": [
       1,
@@ -1054,6 +1055,10 @@
     },
     "big8": {
       "name": "StraightUpDeath",
+      "rank": "APEX VIP"
+    },
+    "big9": {
+      "name": "VRAdvertisements.com",
       "rank": "APEX VIP"
     }
   },
@@ -1336,6 +1341,12 @@
         ],
         "8": [
           531,
+          1368,
+          515,
+          672
+        ],
+        "9": [
+          1054,
           1368,
           515,
           672
