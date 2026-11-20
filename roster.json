@@ -1143,6 +1143,16 @@
       "name": "Shayday21232",
       "until": "2026-11-23T00:00:00Z",
       "note": "downgraded to Group 10-28, APEX paid to the end of the month"
+    },
+    {
+      "name": "VRAdvertisements.com",
+      "file": "posters/hand/apex_vradvertisements-com.png",
+      "rank": "APEX VIP",
+      "since": "2026-11-20T05:34:49Z",
+      "until": "2026-12-20T05:34:49Z",
+      "hand": true,
+      "note": "paid APEX on Patreon, never signed in; 30-day ad added 2026-11-20",
+      "by": "foxi (via Claude)"
     }
   ],
   "packs": {
