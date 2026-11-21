@@ -2,6 +2,7 @@
   "vips": [
     "Wild_Nightshade",
     "NicolasCassie",
+    "Bot ShiestY",
     "Melatonin4120",
     "GothicKittyX3",
     "Maple_xoxo",
@@ -97,6 +98,10 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "Bot ShiestY",
+      "tier": "group"
     },
     {
       "name": "Meloneps",
