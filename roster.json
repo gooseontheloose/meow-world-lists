@@ -2,6 +2,8 @@
   "vips": [
     "Wild_Nightshade",
     "NicolasCassie",
+    "meоw meоw",
+    "Kaiyō Kitsuni",
     "Iz_Loko",
     "Bot ShiestY",
     "Melatonin4120",
@@ -20,12 +22,10 @@
     "Aria-F",
     "BigZ_2800",
     "Sellestria",
-    "meоw meоw",
     "HerDevilKing",
     "୧ σƈƚαʋια_ʚღɞ",
     "NuclearActivity",
     "_--Kami--_",
-    "Kaiyō Kitsuni",
     "Ohbutterballs",
     "~ʚ νєяσηιcα ʚ~",
     "_Great_Milenko_",
@@ -86,9 +86,10 @@
     "Shayday21232",
     "JantsoP",
     "Saphira.",
+    "˙Yed",
+    "nicklameallday",
     "ShallowGrave",
     "Rat-pudding",
-    "nicklameallday",
     "sunedai~"
   ],
   "supporters": [
@@ -99,6 +100,14 @@
     {
       "name": "NicolasCassie",
       "tier": "vip"
+    },
+    {
+      "name": "meоw meоw",
+      "tier": "apex"
+    },
+    {
+      "name": "Kaiyō Kitsuni",
+      "tier": "apex"
     },
     {
       "name": "Iz_Loko",
@@ -181,10 +190,6 @@
       "tier": "poster"
     },
     {
-      "name": "meоw meоw",
-      "tier": "apex"
-    },
-    {
       "name": "HerDevilKing",
       "tier": "vip"
     },
@@ -199,10 +204,6 @@
     {
       "name": "_--Kami--_",
       "tier": "poster"
-    },
-    {
-      "name": "Kaiyō Kitsuni",
-      "tier": "apex"
     },
     {
       "name": "Ohbutterballs",
@@ -465,6 +466,16 @@
       "tier": "vip"
     },
     {
+      "name": "˙Yed",
+      "tier": "vip",
+      "buddyOf": "meоw meоw"
+    },
+    {
+      "name": "nicklameallday",
+      "tier": "vip",
+      "buddyOf": "Kaiyō Kitsuni"
+    },
+    {
       "name": "ShallowGrave",
       "tier": "vip",
       "buddyOf": "Coolguy3289"
@@ -473,11 +484,6 @@
       "name": "Rat-pudding",
       "tier": "vip",
       "buddyOf": "StraightUpDeath"
-    },
-    {
-      "name": "nicklameallday",
-      "tier": "vip",
-      "buddyOf": "Kaiyō Kitsuni"
     },
     {
       "name": "sunedai~",
