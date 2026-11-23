@@ -785,6 +785,33 @@
       "video": [],
       "access": [],
       "playlist": []
+    },
+    {
+      "site": true,
+      "id": "grp_96388828-b583-412b-a937-e8015cb52aca",
+      "vrcId": "grp_96388828-b583-412b-a937-e8015cb52aca",
+      "name": "Crossfade Crusaders",
+      "code": "CROSS.5026",
+      "tagline": "",
+      "tier": "group",
+      "owners": [
+        "͘Dream"
+      ],
+      "seniorHosts": [
+        "5ully",
+        "ChuckTheDuck127",
+        "Opple",
+        "SailorPao",
+        "Velo.224740",
+        "SirNibbly",
+        "LyraPupcake"
+      ],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": []
     }
   ],
   "manualFloor": {
@@ -839,7 +866,8 @@
       5,
       6,
       7,
-      8
+      8,
+      10
     ],
     "banners": [
       1,
@@ -847,7 +875,8 @@
       5,
       6,
       7,
-      8
+      8,
+      10
     ],
     "sponsor": []
   },
@@ -1266,7 +1295,7 @@
     },
     "logos": {
       "w": 792,
-      "h": 1576,
+      "h": 1968,
       "cells": {
         "1": [
           8,
@@ -1315,12 +1344,18 @@
           1184,
           384,
           384
+        ],
+        "10": [
+          8,
+          1576,
+          384,
+          384
         ]
       }
     },
     "banners": {
       "w": 2048,
-      "h": 1169,
+      "h": 1556,
       "cells": {
         "1": [
           8,
@@ -1355,6 +1390,12 @@
         "8": [
           1028,
           782,
+          1012,
+          379
+        ],
+        "10": [
+          8,
+          1169,
           1012,
           379
         ]
