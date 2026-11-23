@@ -758,6 +758,28 @@
       "video": [],
       "access": [],
       "playlist": []
+    },
+    {
+      "site": true,
+      "id": "grp_5c16edbe-e8d6-4e9a-be56-0cb54d1af849",
+      "vrcId": "grp_5c16edbe-e8d6-4e9a-be56-0cb54d1af849",
+      "name": "The Gaming Corner",
+      "code": "TGC.1669",
+      "tagline": "Come hang with Friends and play some games!",
+      "tier": "group",
+      "owners": [
+        "Coolguy3289"
+      ],
+      "seniorHosts": [
+        "ShallowGrave",
+        "CoolDude"
+      ],
+      "hosts": [],
+      "security": [],
+      "djs": [],
+      "video": [],
+      "access": [],
+      "playlist": []
     }
   ],
   "manualFloor": {
