@@ -811,7 +811,24 @@
       "djs": [],
       "video": [],
       "access": [],
-      "playlist": []
+      "playlist": [
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=2IhiwHAZdSw&list=RD2IhiwHAZdSw&start_radio=1"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=2gMg8gxrhDo&list=RD2gMg8gxrhDo&start_radio=1"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=A8Tm5KfqnTQ"
+        },
+        {
+          "t": "",
+          "u": "https://www.youtube.com/watch?v=CCt9uG7MITQ&list=RDCCt9uG7MITQ&start_radio=1"
+        }
+      ]
     }
   ],
   "manualFloor": {
