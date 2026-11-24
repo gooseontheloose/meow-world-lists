@@ -77,7 +77,6 @@
     "̴L̴̴i̴̴g̴̴h̴̴t̴",
     "ღExoticButtersღ",
     "BunnyVR¥",
-    "Kaosu Kitty",
     "8Bitocarina",
     "jessicat_vr",
     "GirthyGramps",
@@ -424,10 +423,6 @@
     {
       "name": "BunnyVR¥",
       "tier": "vip"
-    },
-    {
-      "name": "Kaosu Kitty",
-      "tier": "poster"
     },
     {
       "name": "8Bitocarina",
@@ -853,7 +848,6 @@
       21,
       23,
       24,
-      33,
       34,
       36
     ],
@@ -957,10 +951,6 @@
     "24": {
       "name": "͘Dream",
       "rank": "GROUP VIP"
-    },
-    "33": {
-      "name": "Kaosu Kitty",
-      "rank": "POSTER VIP"
     },
     "34": {
       "name": "cinnaree",
@@ -1208,20 +1198,14 @@
           360,
           502
         ],
-        "33": [
+        "34": [
           744,
           1538,
           360,
           502
         ],
-        "34": [
-          1112,
-          1538,
-          360,
-          502
-        ],
         "36": [
-          1480,
+          1112,
           1538,
           360,
           502
