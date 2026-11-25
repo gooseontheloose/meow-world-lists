@@ -2,6 +2,7 @@
   "vips": [
     "Wild_Nightshade",
     "NicolasCassie",
+    "ᴍᴇᴅɪᴄᴀᴛᴇ",
     "͘Dream",
     "Coolguy3289",
     "meоw meоw",
@@ -40,7 +41,6 @@
     "SourDusk",
     "ThePhantomHyena",
     "cinnaree",
-    "ᴍᴇᴅɪᴄᴀᴛᴇ",
     "ANGRYTACO13",
     "Aja_sc6ux",
     "Eatmomuffens",
@@ -72,20 +72,16 @@
     "AbyssalGeode",
     "Azrya",
     "0tters",
-    "R̶o̶b̶i̶n̶",
     "VisforVenus",
     "̴L̴̴i̴̴g̴̴h̴̴t̴",
     "ღExoticButtersღ",
     "BunnyVR¥",
-    "8Bitocarina",
     "jessicat_vr",
-    "GirthyGramps",
     "JantsoP",
     "ShallowGrave",
     "˙Yed",
     "nicklameallday",
-    "Rat-pudding",
-    "sunedai~"
+    "Rat-pudding"
   ],
   "supporters": [
     {
@@ -94,6 +90,10 @@
     },
     {
       "name": "NicolasCassie",
+      "tier": "vip"
+    },
+    {
+      "name": "ᴍᴇᴅɪᴄᴀᴛᴇ",
       "tier": "vip"
     },
     {
@@ -261,10 +261,6 @@
       "tier": "poster"
     },
     {
-      "name": "ᴍᴇᴅɪᴄᴀᴛᴇ",
-      "tier": "vip"
-    },
-    {
       "name": "ANGRYTACO13",
       "tier": "vip"
     },
@@ -405,10 +401,6 @@
       "tier": "kitten"
     },
     {
-      "name": "R̶o̶b̶i̶n̶",
-      "tier": "apex"
-    },
-    {
       "name": "VisforVenus",
       "tier": "vip"
     },
@@ -425,16 +417,8 @@
       "tier": "vip"
     },
     {
-      "name": "8Bitocarina",
-      "tier": "vip"
-    },
-    {
       "name": "jessicat_vr",
       "tier": "group"
-    },
-    {
-      "name": "GirthyGramps",
-      "tier": "apex"
     },
     {
       "name": "JantsoP",
@@ -459,11 +443,6 @@
       "name": "Rat-pudding",
       "tier": "vip",
       "buddyOf": "StraightUpDeath"
-    },
-    {
-      "name": "sunedai~",
-      "tier": "vip",
-      "buddyOf": "R̶o̶b̶i̶n̶"
     }
   ],
   "staff": [
@@ -572,23 +551,6 @@
         "LoEloHighStress",
         "Izükï Tånükï"
       ],
-      "access": [],
-      "playlist": []
-    },
-    {
-      "site": true,
-      "id": "grp_d49c108b-dcf4-49b5-8efa-5cfce12f6c9c",
-      "vrcId": "grp_d49c108b-dcf4-49b5-8efa-5cfce12f6c9c",
-      "name": "RBN",
-      "code": "RBN.8799",
-      "tagline": "Submissive Puppies",
-      "tier": "group",
-      "owners": [],
-      "seniorHosts": [],
-      "hosts": [],
-      "security": [],
-      "djs": [],
-      "video": [],
       "access": [],
       "playlist": []
     },
@@ -838,8 +800,6 @@
       6,
       7,
       8,
-      9,
-      13,
       15,
       16,
       17,
@@ -857,9 +817,7 @@
       3,
       4,
       5,
-      6,
-      7,
-      8
+      6
     ],
     "logos": [
       1,
@@ -870,16 +828,16 @@
       6,
       7,
       8,
-      10
+      9
     ],
     "banners": [
       1,
+      3,
       4,
       5,
       6,
       7,
-      8,
-      10
+      9
     ],
     "sponsor": []
   },
@@ -911,14 +869,6 @@
     "8": {
       "name": "Azrya",
       "rank": "GROUP VIP"
-    },
-    "9": {
-      "name": "GirthyGramps",
-      "rank": "APEX VIP"
-    },
-    "13": {
-      "name": "R̶o̶b̶i̶n̶",
-      "rank": "APEX VIP"
     },
     "15": {
       "name": "Katze_XD",
@@ -965,15 +915,15 @@
       "rank": "APEX VIP"
     },
     "big2": {
-      "name": "GirthyGramps",
+      "name": "StraightUpDeath",
       "rank": "APEX VIP"
     },
     "big3": {
-      "name": "R̶o̶b̶i̶n̶",
+      "name": "Coolguy3289",
       "rank": "APEX VIP"
     },
     "big4": {
-      "name": "StraightUpDeath",
+      "name": "VRAdvertisements.com",
       "rank": "APEX VIP"
     },
     "big5": {
@@ -982,14 +932,6 @@
     },
     "big6": {
       "name": "＊༒ღDaisyღ༒＊",
-      "rank": "APEX VIP"
-    },
-    "big7": {
-      "name": "Coolguy3289",
-      "rank": "APEX VIP"
-    },
-    "big8": {
-      "name": "VRAdvertisements.com",
       "rank": "APEX VIP"
     }
   },
@@ -1138,74 +1080,62 @@
           360,
           502
         ],
-        "9": [
-          744,
-          518,
-          360,
-          502
-        ],
-        "13": [
-          1112,
-          518,
-          360,
-          502
-        ],
         "15": [
-          1480,
+          744,
           518,
           360,
           502
         ],
         "16": [
-          8,
-          1028,
+          1112,
+          518,
           360,
           502
         ],
         "17": [
-          376,
-          1028,
+          1480,
+          518,
           360,
           502
         ],
         "18": [
-          744,
+          8,
           1028,
           360,
           502
         ],
         "19": [
-          1112,
+          376,
           1028,
           360,
           502
         ],
         "21": [
-          1480,
+          744,
           1028,
           360,
           502
         ],
         "23": [
+          1112,
+          1028,
+          360,
+          502
+        ],
+        "24": [
+          1480,
+          1028,
+          360,
+          502
+        ],
+        "34": [
           8,
           1538,
           360,
           502
         ],
-        "24": [
-          376,
-          1538,
-          360,
-          502
-        ],
-        "34": [
-          744,
-          1538,
-          360,
-          502
-        ],
         "36": [
-          1112,
+          376,
           1538,
           360,
           502
@@ -1213,56 +1143,44 @@
       }
     },
     "big": {
-      "w": 1577,
-      "h": 2048,
+      "w": 2048,
+      "h": 1776,
       "cells": {
         "1": [
           8,
           8,
-          515,
-          672
+          672,
+          876
         ],
         "2": [
-          531,
+          688,
           8,
-          515,
-          672
+          672,
+          876
         ],
         "3": [
-          1054,
+          1368,
           8,
-          515,
-          672
+          672,
+          876
         ],
         "4": [
           8,
-          688,
-          515,
-          672
+          892,
+          672,
+          876
         ],
         "5": [
-          531,
           688,
-          515,
-          672
+          892,
+          672,
+          876
         ],
         "6": [
-          1054,
-          688,
-          515,
-          672
-        ],
-        "7": [
-          8,
           1368,
-          515,
-          672
-        ],
-        "8": [
-          531,
-          1368,
-          515,
-          672
+          892,
+          672,
+          876
         ]
       }
     },
@@ -1318,7 +1236,7 @@
           384,
           384
         ],
-        "10": [
+        "9": [
           8,
           1576,
           384,
@@ -1336,37 +1254,37 @@
           1012,
           379
         ],
-        "4": [
+        "3": [
           1028,
           8,
           1012,
           379
         ],
-        "5": [
+        "4": [
           8,
+          395,
+          1012,
+          379
+        ],
+        "5": [
+          1028,
           395,
           1012,
           379
         ],
         "6": [
-          1028,
-          395,
-          1012,
-          379
-        ],
-        "7": [
           8,
           782,
           1012,
           379
         ],
-        "8": [
+        "7": [
           1028,
           782,
           1012,
           379
         ],
-        "10": [
+        "9": [
           8,
           1169,
           1012,
